@@ -1,4 +1,5 @@
-# Nexacro 17 모바일 앱 빌드를 위한 안드로이드 프로젝트 설정 방법 - [한국어](https://github.com/tobehyo/template_android_nexacro_setting/blob/master/README.md), [English](https://github.com/tobehyo/template_android_nexacro_setting/blob/master/README.en.md)
+# Nexacro 17 모바일 앱 빌드를 위한 안드로이드 프로젝트 설정 방법
+*Read this in other languages:  [한국어](README.md), [English](README.en.md)
 ## Nexacro 17 mobile app 빌드를 위한 파일 준비
 - 안드로이드용 넥사크로  라이브러리 파일(nexacro17_AndroidX_xxxxxxxx_x.zip)
  nexacro17_AndroidX_xxxxxxxx_x.zip 파일은 투비소프트 기술지원 홈페이지에서 다운로드 받을 수 있습니다. 
