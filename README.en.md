@@ -2,7 +2,7 @@
 *Read this in other languages:  [한국어](README.md), [English](README.en.md)*
 ## Preapre files for Nexacro 17 mobile app build
 - Nexacro library file (nexacro17_AndroidX_xxxxxxxx_x.zip) for Android  
- Download "nexacro17_AndroidX_xxxxxxxx_x.zip" file in [tobesoft technical support](http://support.tobesoft.co.kr) site  
+ *You can download "nexacro17_AndroidX_xxxxxxxx_x.zip" file in [tobesoft technical support](http://support.tobesoft.co.kr) site*  
  Downloads &rarr; Nexacro Platform 17 &rarr; nexacro17_AndroidX_[{date}_{realeasenumber}].zip  
  - Nexacro Activity Template files  
  [Download](https://github.com/tobehyo/template_android_nexacro_setting/archive/master.zip)
