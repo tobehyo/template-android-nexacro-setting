@@ -1,12 +1,12 @@
-# Nexacro 17 모바일 앱 빌드를 위한 안드로이드 프로젝트 설정 방법 - [한국어](https://github.com/tobehyo/template_android_nexacro_setting/blob/master/README.md), [English](https://github.com/tobehyo/template_android_nexacro_setting/blob/master/README.en.md)
-## Nexacro 17 mobile app 빌드를 위한 파일 준비
-- 안드로이드용 넥사크로  라이브러리 파일(nexacro17_AndroidX_xxxxxxxx_x.zip)
- nexacro17_AndroidX_xxxxxxxx_x.zip 파일은 투비소프트 기술지원 홈페이지에서 다운로드 받을 수 있습니다. 
+# Android Studio Project Set up Guide for Nexacro 17 - [한국어](https://github.com), [English](https://github.com)
+## Preapre files for Nexacro 17 mobile app build
+- Nexacro library file (nexacro17_AndroidX_xxxxxxxx_x.zip) for Android
+ you can download "nexacro17_AndroidX_xxxxxxxx_x.zip" file in [tobesoft technical support](http://support.tobesoft.co.kr) site.
  Downloads > Nexacro Platform 17 > nexacro17_AndroidX_[{date}_{realeasenumber}].zip
 - Nexacro Activity Template files
 [Download](https://github.com/tobehyo/template_android_nexacro_setting/archive/master.zip)
  
-## 안드로이드 프로젝트 생성 및 설정 
+## Create Android project and set up
 ### 1. Open Folder
 For Windows User : 
 ```bash
