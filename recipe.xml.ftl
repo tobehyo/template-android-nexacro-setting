@@ -7,8 +7,8 @@
     
     <mkdir at="${escapeXmlAttribute(projectOut)}/src/main/jniLibs/armeabi-v7a" />
 
-    <copy from="root/libs"
-            to="${escapeXmlAttribute(projectOut)}/libs" />
+    <#--  <copy from="root/libs"
+            to="${escapeXmlAttribute(projectOut)}/libs" />  -->
 
     <#--  <copy from="root/jniLibs/arm64-v8a"
             to="${escapeXmlAttribute(projectOut)}/src/main/jniLibs/arm64-v8a" />
