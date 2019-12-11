@@ -8,43 +8,42 @@
 [Download](https://github.com/tobehyo/template_android_nexacro_setting/archive/master.zip)
  
 ## 안드로이드 프로젝트 생성 및 설정 
-### 1. Open Folder
-For Windows User : 
+### 1. 폴더 열기
+윈도우 OS 사용자 : 
 ```bash
 {ANDROID_STUDIO_LOCATION}/plugins/android/lib/templates/other/
 ```
-For Mac User : 
+맥OS 사용자 : 
 ```bash
 /Applications/Android Studio.app/Contents/plugins/android/lib/templates/other/
 ```
-### 2. Unzip, Rename and Copy a Folder with the Name of `template_android_nexacro_setting_master`.zip
-1. UnZip : `template_android_nexacro_setting_master.zip`
-2. Rename : `template_android_nexacro_setting_master` to `Nexacro Activity`
-3. copy Nexacro Activity folder
+### 2. 파일 압축 해제, 파일 이름 변경 및 파일 복사하기
+1. `template_android_nexacro_setting_master.zip` 파일 압축 해제
+2. `template_android_nexacro_setting_master` 에서 `Nexacro Activity` 로 파일 이름 변경
+3. Nexacro Activity 폴더 복사
 
-For example, you can use
+예
 ```bash
 other/Nexacro Activity/
 ```
-### 3. Create New Project with Empty Activity in Android Stuido
-### 4. Right click on a package(app) that you created new project and select `New` &rarr; `Activity` &rarr; `Nexacro17 Activity`
-### 5. Set BoostrapURL and ProjectURL
+### 3. 안드로드이 스튜디오에서 Empty Activity 를 선택하여 새로운 프로젝트 생성
+### 4. 새로 생성한 프로젝트에서(app) 위에서 오른쪽 버튼 클릭 후 `New` &rarr; `Activity` &rarr; `Nexacro17 Activity` 선택
+### 5. BoostrapURL 과 ProjectURL 입력
+    `BoostrapURL` : start_android.json 파일 웹서버 파일 경로
+    `ProjectURL` : start_android.json 이 있는 웹서버 폴더 경로
+### 6. `nexacro17.androidX.jar`, `libnexacro17.so` 파일 복사 및 붙여넣기
+- `nexacro17_AndroidX_xxxxxxxx_x.zip` 파일을 압축 해제
+- **nexacro.androidX.jar** 파일을 복사 후 프로젝트의 **libs**에 붙여넣기
+- **arm64-v8a/libnexacro17.so** 파일을 복사 후 **jniLibs/arm64-v8a** 에 붙여넣기
+- **armeabi-v7a/libnexacro17.so** 파일을 복사 후 **jniLibs/armeabi-v7a** 에 붙여넣기
 
-### 6. Copy and Paste `nexacro17.androidX.jar`, `libnexacro17.so` files
-- unzip `nexacro17_AndroidX_xxxxxxxx_x.zip`
-- Copy **nexacro.androidX.jar** from unzip files and paste to libs in project
-- Copy **arm64-v8a/libnexacro17.so** from unzip folder and paste to **jniLibs/arm64-v8a**
-- Copy **armeabi-v7a/libnexacro17.so** from unzip folder and paste to **jniLibs/armeabi-v7a**
-
-# Packing Android mobile files in Nexacro Studio
-- Select `Deploy` &rarr; `Packing`
-- Set `Output Path` then click "next"
-- Select `Android` and `Update(Local+Server)` click "Packing"
-- upload packing files to web server
+# Nexqacro Studio 에서 안드로이드용 모바일 파일 생성
+- `Deploy` &rarr; `Packing` 선택
+- `Output Path` 설정 후 "Next" 클릭
+- `Android` 및 `Update(Local+Server)` 선택 후 "Packing" 버튼 클릭
+- 웹서버에 packing 파일 업로드
     Packing files
     - Archive00.xzip 
     - nexacro17lib.zip 
     - Resource.zip 
-    - start_android.json **&larr; this is boostrap file**  
-    `BoostrapURL` : start_android.json path on web server  
-    `ProjectURL` : start_android.json root path on web server
+    - start_android.json **&larr; boostrap 파일**  
