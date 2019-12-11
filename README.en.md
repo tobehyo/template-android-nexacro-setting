@@ -29,8 +29,8 @@ other/Nexacro Activity/
 ### 3. Create New Project with Empty Activity in Android Stuido
 ### 4. Right click on a package(app) that you created new project and select `New` &rarr; `Activity` &rarr; `Nexacro17 Activity`
 ### 5. Set BoostrapURL and ProjectURL
-    `BoostrapURL` : start_android.json file path on web server  
-    `ProjectURL` : start_android.json folder path on web server
+> **BoostrapURL** : start_android.json file path on web server  
+> **ProjectURL** : start_android.json folder path on web server
 ### 6. Copy and Paste `nexacro17.androidX.jar`, `libnexacro17.so` files
 - unzip `nexacro17_AndroidX_xxxxxxxx_x.zip`
 - Copy **nexacro.androidX.jar** from unzip files and paste to libs in project

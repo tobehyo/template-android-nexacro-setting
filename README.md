@@ -29,8 +29,9 @@ other/Nexacro Activity/
 ### 3. 안드로드이 스튜디오에서 Empty Activity 를 선택하여 새로운 프로젝트 생성
 ### 4. 새로 생성한 프로젝트에서(app) 위에서 오른쪽 버튼 클릭 후 `New` &rarr; `Activity` &rarr; `Nexacro17 Activity` 선택
 ### 5. BoostrapURL 과 ProjectURL 입력
-    `BoostrapURL` : start_android.json 파일 웹서버 파일 경로
-    `ProjectURL` : start_android.json 이 있는 웹서버 폴더 경로
+> **BoostrapURL** : start_android.json 파일 웹서버 파일 경로
+> **ProjectURL** : start_android.json 이 있는 웹서버 폴더 경로
+
 ### 6. `nexacro17.androidX.jar`, `libnexacro17.so` 파일 복사 및 붙여넣기
 - `nexacro17_AndroidX_xxxxxxxx_x.zip` 파일을 압축 해제
 - **nexacro.androidX.jar** 파일을 복사 후 프로젝트의 **libs**에 붙여넣기
