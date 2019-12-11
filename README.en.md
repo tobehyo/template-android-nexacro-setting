@@ -45,6 +45,6 @@ other/Nexacro Activity/
     - Archive00.xzip 
     - nexacro17lib.zip 
     - Resource.zip 
-    - start_android.json **&larr; this is boostrap file**
-    `BoostrapURL` : start_android.json path on web server
+    - start_android.json **&larr; this is boostrap file**  
+    `BoostrapURL` : start_android.json path on web server  
     `ProjectURL` : start_android.json root path on web server
