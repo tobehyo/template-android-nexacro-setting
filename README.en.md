@@ -5,7 +5,7 @@
  *You can download "nexacro17_AndroidX_xxxxxxxx_x.zip" file in [tobesoft technical support](http://support.tobesoft.co.kr) site*  
  Downloads &rarr; Nexacro Platform 17 &rarr; nexacro17_AndroidX_[{date}_{realeasenumber}].zip  
  - Nexacro Activity Template files  
- [Download](https://github.com/tobehyo/template_android_nexacro_setting/archive/master.zip)
+ [Download](https://github.com/tobehyo/template-android-nexacro-setting/archive/master.zip)
  
 ## Create Android project and set up
 ### 1. Open Folder
@@ -17,9 +17,9 @@ For Mac User :
 ```bash
 /Applications/Android Studio.app/Contents/plugins/android/lib/templates/other/
 ```
-### 2. Unzip, Rename and Copy a Folder with the Name of `template_android_nexacro_setting_master`.zip
-1. UnZip : `template_android_nexacro_setting_master.zip`
-2. Rename : `template_android_nexacro_setting_master` to `Nexacro Activity`
+### 2. Unzip, Rename and Copy a Folder with the Name of `template-android-nexacro-setting_master`.zip
+1. UnZip : `template-android-nexacro-setting-master.zip`
+2. Rename : `template-android-nexacro-setting-master` to `Nexacro Activity`
 3. copy Nexacro Activity folder
 
 For example, you can use

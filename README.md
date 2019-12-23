@@ -5,7 +5,7 @@
  nexacro17_AndroidX_xxxxxxxx_x.zip 파일은 투비소프트 기술지원 홈페이지에서 다운로드 받을 수 있습니다  
  Downloads &rarr; Nexacro Platform 17 &rarr; nexacro17_AndroidX_[{date}_{realeasenumber}].zip  
 - Nexacro Activity Template files  
-[Download](https://github.com/tobehyo/template_android_nexacro_setting/archive/master.zip)
+[Download](https://github.com/tobehyo/template-android-nexacro-setting/archive/master.zip)
  
 ## 안드로이드 프로젝트 생성 및 설정 
 ### 1. 폴더 열기
@@ -18,8 +18,8 @@
 /Applications/Android Studio.app/Contents/plugins/android/lib/templates/other/
 ```
 ### 2. 파일 압축 해제, 파일 이름 변경 및 파일 복사하기
-1. `template_android_nexacro_setting_master.zip` 파일 압축 해제
-2. `template_android_nexacro_setting_master` 에서 `Nexacro Activity` 로 파일 이름 변경
+1. `template-android-nexacro-setting-master.zip` 파일 압축 해제
+2. `template-android-nexacro-setting-master` 에서 `Nexacro Activity` 로 파일 이름 변경
 3. Nexacro Activity 폴더 복사
 
 예
