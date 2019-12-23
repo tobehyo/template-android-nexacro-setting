@@ -38,7 +38,7 @@ other/Nexacro Activity/
 - **arm64-v8a/libnexacro17.so** 파일을 복사 후 **jniLibs/arm64-v8a** 에 붙여넣기
 - **armeabi-v7a/libnexacro17.so** 파일을 복사 후 **jniLibs/armeabi-v7a** 에 붙여넣기
 
-# Nexqacro Studio 에서 안드로이드용 모바일 파일 생성
+# Nexacro Studio 에서 안드로이드용 모바일 파일 생성
 - `Deploy` &rarr; `Packing` 선택
 - `Output Path` 설정 후 "Next" 클릭
 - `Android` 및 `Update(Local+Server)` 선택 후 "Packing" 버튼 클릭
