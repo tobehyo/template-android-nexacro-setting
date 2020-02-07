@@ -1,6 +1,6 @@
 # Android Studio Project Set up Guide for Nexacro 17
 *Read this in other languages:  [한국어](README.md), [English](README.en.md)*
-## Preapre files for Nexacro 17 mobile app build
+## Preapre files for Nexacro 17 mobile app
 - Nexacro library file (nexacro17_AndroidX_xxxxxxxx_x.zip) for Android  
  *You can download "nexacro17_AndroidX_xxxxxxxx_x.zip" file in [tobesoft technical support](http://support.tobesoft.co.kr) site*  
  Downloads &rarr; Nexacro Platform 17 &rarr; nexacro17_AndroidX_[{date}_{realeasenumber}].zip  
