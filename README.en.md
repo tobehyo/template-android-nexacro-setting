@@ -24,7 +24,7 @@ For Mac User :
 
 For example, you can use
 ```bash
-other/Nexacro Activity/
+other/NexacroActivity/
 ```
 ### 3. Create New Project with Empty Activity in Android Stuido
 ### 4. Right click on a package(app) that you created new project and select `New` &rarr; `Activity` &rarr; `Nexacro17 Activity`
