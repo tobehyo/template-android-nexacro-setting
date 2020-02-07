@@ -19,10 +19,10 @@ For Mac User :
 ```
 ### 2. Unzip, Rename and Copy a Folder with the Name of `template-android-nexacro-setting_master`.zip
 1. UnZip : `template-android-nexacro-setting-master.zip`
-2. Rename : `template-android-nexacro-setting-master` to `Nexacro Activity`
-3. copy Nexacro Activity folder
+2. Rename : `template-android-nexacro-setting-master` to `NexacroActivity`
+3. copy and paste NexacroActivity folder 
 
-For example, you can use
+For example,
 ```bash
 other/NexacroActivity/
 ```
