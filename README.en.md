@@ -19,12 +19,12 @@ For Mac User :
 ```
 ### 2. Unzip, Rename and Copy a Folder with the Name of `template-android-nexacro-setting_master`.zip
 1. UnZip : `template-android-nexacro-setting-master.zip`
-2. Rename : `template-android-nexacro-setting-master` to `NexacroActivity`
-3. copy and paste NexacroActivity folder 
+2. Rename : `template-android-nexacro-setting-master` to `NexacroMainActivity`
+3. copy and paste NexacroMainActivity folder 
 
 For example,
 ```bash
-other/NexacroActivity/
+other/NexacroMainActivity/
 ```
 ### 3. Create New Project with Empty Activity in Android Stuido
 ### 4. Right click on a package(app) that you created new project and select `New` &rarr; `Activity` &rarr; `Nexacro17 Activity`

@@ -7,9 +7,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class ${nexacroActivityClass} extends NexacroUpdatorActivity {
+public class ${nexacroMainActivityClass} extends NexacroUpdatorActivity {
 
-    public ${nexacroActivityClass}() {
+    public ${nexacroMainActivityClass}() {
         super();
 
         setBootstrapURL("${bootstrapURL}");

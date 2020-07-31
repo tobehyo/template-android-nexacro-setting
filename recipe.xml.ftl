@@ -17,10 +17,10 @@
             to="${escapeXmlAttribute(projectOut)}/src/main/jniLibs/armeabi-v7a" />              -->
 
     <instantiate from="root/src/app_package/activityClass.java.ftl"
-                   to="${escapeXmlAttribute(srcOut)}/${nexacroActivityClass}.java" />
+                   to="${escapeXmlAttribute(srcOut)}/${nexacroMainActivityClass}.java" />
 
     <instantiate from="root/res/layout/activity.xml.ftl"
-                 to="${escapeXmlAttribute(resOut)}/layout/${nexacroActivityLayout}.xml" />
+                 to="${escapeXmlAttribute(resOut)}/layout/${nexacroMainActivityLayout}.xml" />
    
     <merge from="root/AndroidManifest.xml.ftl"
              to="${escapeXmlAttribute(manifestOut)}/AndroidManifest.xml" />
@@ -28,7 +28,7 @@
     <merge from="root/res/values/manifest_strings.xml.ftl"
              to="${escapeXmlAttribute(resOut)}/values/strings.xml" />
 
-    <open file="${escapeXmlAttribute(resOut)}/layout/${nexacroActivityLayout}.xml" />  
-    <open file="${escapeXmlAttribute(srcOut)}/${nexacroActivityClass}.java" />
+    <open file="${escapeXmlAttribute(resOut)}/layout/${nexacroMainActivityLayout}.xml" />  
+    <open file="${escapeXmlAttribute(srcOut)}/${nexacroMainActivityClass}.java" />
 
 </recipe>

@@ -11,15 +11,15 @@
     <formfactor value="Mobile" />
 
     <parameter
-        id="nexacroActivityClass"
+        id="nexacroMainActivityClass"
         name="Activity Name"
         type="string"
         constraints="class|unique|nonempty"
-        default="NexacroActivity"
+        default="NexacroMainActivity"
         help="The name of the activity class to create" />
 
     <parameter
-        id="nexacroActivityLayout"
+        id="nexacroMainActivityLayout"
         name="Layout Name"
         type="string"
         constraints="layout|unique|nonempty"

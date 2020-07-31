@@ -19,12 +19,12 @@
 ```
 ### 2. 파일 압축 해제, 파일 이름 변경 및 파일 복사하기
 1. `template-android-nexacro-setting-master.zip` 파일 압축 해제
-2. `template-android-nexacro-setting-master` 에서 `Nexacro Activity` 로 파일 이름 변경
-3. Nexacro Activity 폴더 복사
+2. `template-android-nexacro-setting-master` 에서 `NexacroMainActivity` 로 파일 이름 변경
+3. NexacroMainActivity 폴더 복사
 
 예
 ```bash
-other/Nexacro Activity/
+other/NexacroMainActivity/
 ```
 ### 3. 안드로드이 스튜디오에서 Empty Activity 를 선택하여 새로운 프로젝트 생성
 ### 4. 새로 생성한 프로젝트에서(app) 위에서 오른쪽 버튼 클릭 후 `New` &rarr; `Activity` &rarr; `Nexacro17 Activity` 선택

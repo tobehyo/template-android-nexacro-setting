@@ -28,7 +28,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">    
 
-        <activity android:name="${packageName}.${nexacroActivityClass}"
+        <activity android:name="${packageName}.${nexacroMainActivityClass}"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.NoTitleBar">        
             <intent-filter>
